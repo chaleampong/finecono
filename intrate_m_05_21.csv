@@ -1,4 +1,4 @@
-month,policyrate,interbank,repurchase_1d,repurchase_7d,repurchase_14d,BIBOR_1w,BIBOR_1m,BIBOR_2m,BIBOR_3m,BIBOR_6m,BIBOR_1y,tbill_1m,tbill_3m,tbill_6m,tbond_1y,tbond_2y,tbond_3y,tbond_4y,tbond_5y,tbond_6y,tbond_7y,tbond_8y,tbond_9y,tbond_10y,tbond_11y,tbond_12y,tbond_13y,tbond_14y,tbond_154y,MLR
+month,policyrate,interbank,repurchase_1d,repurchase_7d,repurchase_14d,BIBOR_1w,BIBOR_1m,BIBOR_2m,BIBOR_3m,BIBOR_6m,BIBOR_1y,tbill_1m,tbill_3m,tbill_6m,tbond_1y,tbond_2y,tbond_3y,tbond_4y,tbond_5y,tbond_6y,tbond_7y,tbond_8y,tbond_9y,tbond_10y,tbond_11y,tbond_12y,tbond_13y,tbond_14y,tbond_15y,MLR
 1/1/2005,2,1.89,1.85,1.98,2,2.2,2.32,2.39,2.46,2.58,2.92,1.78,1.95,2.22,2.5,2.88,3.28,3.66,4.11,4.29,4.53,4.69,4.77,4.89,4.97,5.03,5.08,5.11,5.14,4.73
 2/1/2005,2,1.88,1.84,1.97,2,2.2,2.36,2.44,2.53,2.67,2.98,1.83,1.98,2.2,2.46,2.94,3.33,3.68,4.08,4.24,4.46,4.63,4.71,4.84,4.91,4.97,5.02,5.05,5.09,4.63
 3/1/2005,2.25,1.93,1.81,2.04,2.24,2.25,2.44,2.53,2.62,2.8,3.08,1.91,2.07,2.26,2.54,2.96,3.29,3.56,3.9,4.03,4.26,4.41,4.5,4.68,4.76,4.82,4.87,4.9,4.94,4.62
