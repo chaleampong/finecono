@@ -13,12 +13,16 @@
 
 ## ตัวอย่างโปรแกรม R
 
--[บทที่ 1](https://github.com/chaleampong/EC435/blob/master/chapter1_example.md)
+-[บทที่ 1](https://github.com/chaleampong/finecono/blob/main/chapter1_example.md)
 
--[บทที่ 2](https://github.com/chaleampong/EC435/blob/master/chapter2_example.md)
+-[บทที่ 2](https://github.com/chaleampong/finecono/blob/main/chapter2_example.md)
 
--[บทที่ 4](https://github.com/chaleampong/EC435/blob/master/chapter4_example.md)
+-[บทที่ 3](https://github.com/chaleampong/finecono/blob/main/chapter3_example.md)
 
--[บทที่ 5](https://github.com/chaleampong/EC435/blob/master/chapter5_example.md)
+-[บทที่ 4](https://github.com/chaleampong/finecono/blob/main/chapter4_example.md)
 
--[บทที่ 6](https://github.com/chaleampong/EC435/blob/master/chapter6_example.md)
+-[บทที่ 5](https://github.com/chaleampong/finecono/blob/main/chapter5_example.md)
+
+-[บทที่ 6](https://github.com/chaleampong/finecono/blob/main/chapter6_example.md)
+
+-[บทที่ 7](https://github.com/chaleampong/finecono/blob/main/chapter7_example.md)
